@@ -1,0 +1,30 @@
+C:\Users\Yushen Li\Desktop\project 6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.exe.config
+C:\Users\Yushen Li\Desktop\project 6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.exe
+C:\Users\Yushen Li\Desktop\project 6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.pdb
+C:\Users\Yushen Li\Desktop\project 6\PPMImageEditor\PPMImageEditor\bin\Debug\FSharp.Core.dll
+C:\Users\Yushen Li\Desktop\project 6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.dll
+C:\Users\Yushen Li\Desktop\project 6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.pdb
+C:\Users\Yushen Li\Desktop\project 6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.xml
+C:\Users\Yushen Li\Desktop\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csprojResolveAssemblyReference.cache
+C:\Users\Yushen Li\Desktop\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.Form1.resources
+C:\Users\Yushen Li\Desktop\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.Properties.Resources.resources
+C:\Users\Yushen Li\Desktop\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csproj.GenerateResource.cache
+C:\Users\Yushen Li\Desktop\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\Yushen Li\Desktop\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csproj.CopyComplete
+C:\Users\Yushen Li\Desktop\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.exe
+C:\Users\Yushen Li\Desktop\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.pdb
+E:\Computer Science\CS 341\Project\project 6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.exe.config
+E:\Computer Science\CS 341\Project\project 6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.exe
+E:\Computer Science\CS 341\Project\project 6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.pdb
+E:\Computer Science\CS 341\Project\project 6\PPMImageEditor\PPMImageEditor\bin\Debug\FSharp.Core.dll
+E:\Computer Science\CS 341\Project\project 6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.dll
+E:\Computer Science\CS 341\Project\project 6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.pdb
+E:\Computer Science\CS 341\Project\project 6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.xml
+E:\Computer Science\CS 341\Project\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csprojResolveAssemblyReference.cache
+E:\Computer Science\CS 341\Project\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.Form1.resources
+E:\Computer Science\CS 341\Project\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.Properties.Resources.resources
+E:\Computer Science\CS 341\Project\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csproj.GenerateResource.cache
+E:\Computer Science\CS 341\Project\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csproj.CoreCompileInputs.cache
+E:\Computer Science\CS 341\Project\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csproj.CopyComplete
+E:\Computer Science\CS 341\Project\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.exe
+E:\Computer Science\CS 341\Project\project 6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.pdb
